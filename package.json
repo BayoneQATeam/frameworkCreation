@@ -1,0 +1,23 @@
+{
+  "name": "frameworkcreation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BayoneQATeam/frameworkCreation.git"
+  },
+  "keywords": [],
+  "author": "Madhura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BayoneQATeam/frameworkCreation/issues"
+  },
+  "homepage": "https://github.com/BayoneQATeam/frameworkCreation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3"
+  }
+}
